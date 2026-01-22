@@ -5,7 +5,7 @@ It allows users to create, edit, and present interactive slide decks directly in
 
 The application is built with React and communicates with a RESTful backend API.
 
----
+This project is private. Contact me for access.
 
 ## Features
 
